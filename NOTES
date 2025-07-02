@@ -1,0 +1,31 @@
+semantic is section with meaning
+div is genaric contain
+list used to group elements to specific manner
+   ordered list <ol>
+   unordered list <ul>
+   definition list <dl>
+   defintion tag   <dt>
+   definition discription <dd>
+attribute provide additional information
+ a list contain another list is called nested list
+link used tp move from one page to another page
+ width=attribute (image.html)
+ iframe  used to embedded another website to external content
+src = source
+ hw  pdf , map
+ svg = 2d graphics creation
+
+
+ class - specifies one or more class name for the elements
+ id    - assigns unique identifier to the element
+ style  - allow inline css styling 
+ hidden - hides the element from view
+ tabindex - control the tab order of element
+ lang   - declares the language of the element content
+ dir  -specifies the text direction
+ accesskey -specifies a keyboard shortcut to access the element
+ draggable -specifies the weather the element is draggable
+ contenteditable -allow the content of the element to be editable
+ spellcheck - specifies whether to check spelling for the element 
+ data  - store custom data attribute
+ translate - indicate whether the content should be translated
